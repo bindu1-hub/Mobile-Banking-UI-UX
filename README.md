@@ -39,13 +39,11 @@ This is not a fully developed app — it is only a **UI design (wireframe + visu
 * Creating clean and minimal screens
 * Using Figma for design
 
----
 
 ## 🛠️ Tools Used
 
 * Figma
 
----
 
 ## 🚀 Future Improvements
 
@@ -54,14 +52,11 @@ This is not a fully developed app — it is only a **UI design (wireframe + visu
 * Learn prototyping
 * Convert this design into code
 
----
 
 ## 🙌 Note
 
 This is a beginner project and part of my learning journey.
 I am continuously improving my skills and working on better designs.
-
----
 
 ## 👤 Author
 
